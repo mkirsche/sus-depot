@@ -1,0 +1,10 @@
+card sus {
+
+    into ~
+    outof bash
+    
+    .bashrc  -> .bashrc
+    .bash_aliases -> .bash_aliases
+    
+}
+
